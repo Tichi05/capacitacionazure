@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/0a02cbab-c6ea-49e7-8494-263b9e6121fe/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/camargochacon",
+    "appService.deploySubpath": "."
+}
